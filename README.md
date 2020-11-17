@@ -12,4 +12,6 @@ git clone https://github.com/Boy-SAJA/boy-mbf
 
 cd boy-mbf
 
-python2 saya-boy.py
+ls
+
+python2 scc.py
